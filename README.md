@@ -2,6 +2,8 @@
 
 This repository contains a simple Python script to generate speech from text using the `gTTS` (Google Text-to-Speech) library. 
 
+![image](https://github.com/mejbass/Text-to-Speech-Conversion-Using-Python/assets/130122304/266dc33b-5363-4e9f-b0d6-77364b090639)
+---
 ## Table of Contents
 
 - [Introduction](#introduction)
